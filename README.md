@@ -42,7 +42,7 @@ The model is a custom CNN architecture consisting of:
 
 Below are examples from the dataset:
 
-![MRI Samples]("C:\Users\Dell\Downloads\Brain Tumor MRI.jpeg")
+![MRI Samples](images/Brain Tumor MRI.jpeg)
 
 > 📌 *You can place your images inside an `images` folder and update the image name.*
 
@@ -57,11 +57,11 @@ Below are examples from the dataset:
 
 ### Confusion Matrix
 
-![Confusion Matrix]("C:\Users\Dell\Downloads\Brain Tumor confusion_matrix.jpeg")
+![Confusion Matrix](images/Brain Tumor confusion_matrix.jpeg)
 
 ### Training History
 
-![Training Accuracy & Loss]("C:\Users\Dell\Downloads\Accuracy & loss .jpeg")
+![Training Accuracy & Loss](images/Accuracy & loss .jpeg)
 
 ---
 
@@ -92,8 +92,19 @@ To run this project, you need:
 - Matplotlib
 - Scikit-learn
 
-### Installation
+### 🚀 Installation
 
-Clone the repository:
+1. Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/Brain-Tumor-MRI.git
+git clone https://github.com/HodaMahmoud-2005/Brain-Tumor-MRI.git
+
+2. Install dependencies:
+ ```bash
+pip install tensorflow numpy matplotlib scikit-learn
+
+## Authors
+- [Basmala ElKady](https://github.com/Basmala-ElKady)
+- [Menna Hossny](https://github.com/Mennatullah122)
+- [Hoda Mahmoud](https://github.com/HodaMahmoud-2005)
+- [Jana Hegazy](https://github.com/janahegazy)
+- [Hany Ziad](https://github.com/hanyzead123)
