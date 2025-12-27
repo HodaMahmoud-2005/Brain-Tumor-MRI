@@ -90,7 +90,7 @@ To run this project, you need:
 - Matplotlib
 - Scikit-learn
 
-### 🚀 Installation
+## 🚀 Installation
 
 1. Clone the repository:
 ```bash
