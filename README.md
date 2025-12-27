@@ -57,9 +57,6 @@ Below are examples from the dataset:
 
 ![Confusion Matrix](image/Brain%20Tumor%20confusion_matrix.jpeg)
 
-### Training History ![Training Accuracy & Loss](image/ِAccuracy%20_loss.jpeg)
-
-
 ## 🛠️ Data Preprocessing & Augmentation
 
 The following steps were applied:
