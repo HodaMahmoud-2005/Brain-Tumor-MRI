@@ -86,13 +86,14 @@ To run this project, you need:
 
 ## 🚀 Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/HodaMahmoud-2005/Brain-Tumor-MRI.git
-
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/HodaMahmoud-2005/Brain-Tumor-MRI.git
+   cd Brain-Tumor-MRI
+   
 2. Install dependencies:
- ```bash
-pip install tensorflow numpy matplotlib scikit-learn
+   ```bash
+   pip install tensorflow numpy matplotlib scikit-learn
 
 ## Authors
 - [Basmala ElKady](https://github.com/Basmala-ElKady)
