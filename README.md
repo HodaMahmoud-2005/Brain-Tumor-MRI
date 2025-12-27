@@ -42,7 +42,7 @@ The model is a custom CNN architecture consisting of:
 
 Below are examples from the dataset:
 
-![MRI Samples](images/Brain Tumor MRI.jpeg)
+![MRI Samples](image/Brain Tumor MRI.jpeg)
 
 > 📌 *You can place your images inside an `images` folder and update the image name.*
 
@@ -57,11 +57,11 @@ Below are examples from the dataset:
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/Brain Tumor confusion_matrix.jpeg)
+![Confusion Matrix](image/Brain Tumor confusion_matrix.jpeg)
 
 ### Training History
 
-![Training Accuracy & Loss](images/Accuracy & loss .jpeg)
+![Training Accuracy & Loss](image/Accuracy & loss .jpeg)
 
 ---
 
