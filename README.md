@@ -59,7 +59,7 @@ Below are examples from the dataset:
 
 ### Training History
 
-![Training Accuracy & Loss](image/Accuracy%20%26%20loss.jpeg)
+![Training Accuracy & Loss](image/Accuracy%20loss.jpeg)
 
 ---
 
